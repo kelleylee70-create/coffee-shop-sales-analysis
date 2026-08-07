@@ -1,5 +1,5 @@
 #Ccoffee-shop-sales-analysis
-# ☕ Coffee Shop Sales Analysis
+📊 Project 1: Coffee Shop Sales Analysis
 
 ## Project Overview
 
